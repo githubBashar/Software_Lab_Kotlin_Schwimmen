@@ -24,3 +24,9 @@ The following tools were employed in the development of this project:
 - GitLab
 - Astah Professional
 - BoardGameWork Framework
+
+## More Information 📚
+
+For more information about the game, visit [Schwimmen Project Details](https://sopra.cs.tu-dortmund.de/wiki/sopra/23c/projekt1).
+
+
